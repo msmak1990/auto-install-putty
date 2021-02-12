@@ -1,2 +1,14 @@
 # auto-install-putty
-PowerShell script to install silently PuTTY binary (Windows 10 + PS ver5.1.x) by getting latest version from its site. All done by automated way.
+Date | Modified by | Remarks
+:----: | :----: | :----
+2021-02-13 | Sukri | Created.
+---
+
+## Description:
+> * This is the PowerShell script to install **silently** the Putty binary by getting the latest version from its official site. 
+> * All done by automated way!.
+
+Windows Version | OS Architecture | PowerShell Version | Result
+:----: | :----: | :----: | :----
+Windows 10 | 64-bit and 32-bit | 5.1.x | Tested. `OK`
+---
